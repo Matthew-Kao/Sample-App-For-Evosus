@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722017901898",
+    "project_id": "evosus-29149",
+    "storage_bucket": "evosus-29149.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722017901898:android:73f455a43281fda2d7f5b3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722017901898-jhjdpmf7rk1vqabbbcbn3ivm8f8r5ejg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT4iDgK-XfYx4Q0FCP5BKQcRWWDbyXGp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722017901898-bh7c2q806qr7u6p300kvpei9d5hggkvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
